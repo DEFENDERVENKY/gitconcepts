@@ -1,0 +1,6 @@
+
+
+
+aws is a cloud service you pay and use of service
+
+in aws like ec2, 
